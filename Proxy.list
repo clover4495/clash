@@ -73,6 +73,10 @@ DOMAIN-SUFFIX,null-addr.biz
 DOMAIN-SUFFIX,null-addr.info
 DOMAIN-SUFFIX,addr.tools
 DOMAIN-SUFFIX,bulianglin.com
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
